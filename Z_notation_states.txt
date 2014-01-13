@@ -1,0 +1,10 @@
+Train Ticket Purchasing System[ TICKET , TIME , DISCOUNT_CARD]
+typeofTicket: T  TICKET 
+currentTime: CT TIME
+discountCard: DC  DISCOUNT_CARD
+purchase : TIME ? TICKET 
+price : TICKET | ? N
+moneyLeftOnUserCard : moneyLeftOnUserCard >=  price 
+ChangeAvailable: N1
+
+dom purchase  ? typeofTicket      
