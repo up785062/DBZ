@@ -8,3 +8,4 @@ moneyLeftOnUserCard : moneyLeftOnUserCard >=  price
 ChangeAvailable: N1
 
 dom purchase  ? typeofTicket      
+after states

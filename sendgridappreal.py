@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 14 18:23:41 2019
 
-@author: Davis
+@author: Davis Bonsu
 """
 import json
 import os
